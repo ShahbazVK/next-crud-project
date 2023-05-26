@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: cursive;
+}
+th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+th{
+    background-color: rgba(98, 102, 98, 0.63);
+    color: white;
+}
+table{
+    border-collapse: collapse;
+}

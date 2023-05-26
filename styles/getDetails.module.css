@@ -1,0 +1,27 @@
+.tableBackgroundColor{
+    background-color: #373e37;
+}
+.delete, .update, .closeDialog{
+    padding: 0.5rem;
+    border-radius: 8px;
+    margin-right: 0.2rem;
+    /* background-color: rgb(243, 44, 44); */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.delete{
+    background-color: rgb(243, 44, 44);
+}
+.update{
+    background-color: rgb(31, 168, 31);
+}
+.closeDialog{
+    background-color: rgb(124, 113, 113);
+    color: white;
+}
+.input{
+    padding: 0.3rem;
+    padding-bottom: 1.5rem;
+    border-radius: 4px;
+}
